@@ -96,8 +96,20 @@ npm start
 
 ## 📸 Screenshots
 
-Home Page
+**Home Page**
 ![image](https://github.com/user-attachments/assets/db712f92-7b6d-44ee-9632-353c8317936a)
+
+**Add Course**
+![image](https://github.com/user-attachments/assets/d20c0fa4-67e0-429f-a1ff-0494159764d1)
+
+ **Update Course**
+ ![image](https://github.com/user-attachments/assets/e0f21ddd-37b6-42df-a169-b74840153362)
+
+ **View Course**
+ ![image](https://github.com/user-attachments/assets/00d5a9b0-31e9-42f3-b4c7-5f9a02e637f7)
+
+ **Delete Course**
+ ![image](https://github.com/user-attachments/assets/c0628e19-ed39-4618-80b0-be31dfe0f32f)
 
 ---
 
