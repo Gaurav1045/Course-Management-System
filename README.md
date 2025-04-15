@@ -21,13 +21,13 @@ A full-stack Course Management System built with **React** (Frontend) and **Spri
 ### Frontend
 - React
 - Axios
-- Bootstrap / Material UI (optional)
+- Bootstrap
 
 ### Backend
 - Java + Spring Boot
 - Spring MVC + REST
 - Maven
-- H2 / MySQL Database (depending on your setup)
+- MySQL Database
 
 ---
 
@@ -63,7 +63,7 @@ cd backend/coursemanagementsystem-backend
 
 > The backend will run at: `http://localhost:8080`
 
-3. (Optional) Default endpoints:
+3. Default endpoints:
 ```
 GET    /courses         → Get all courses  
 POST   /courses         → Add a new course  
@@ -123,11 +123,8 @@ npm start
 }
 ```
 
----
 
 ## 🧑‍💻 Author
 
 **Gaurav Dhakate**  
 GitHub: [Gaurav@1045](https://github.com/Gaurav@1045)
-
----
